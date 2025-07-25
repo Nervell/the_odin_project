@@ -1,0 +1,17 @@
+[33mcommit a4e3ee851a1d731e523fcb719e854ca787014dff[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nervell <70727437+Nervell@users.noreply.github.com>
+Date:   Fri Jul 25 00:57:53 2025 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 143d84c3dbfea39c5badcb6488dd8744812014ea[m
+Author: Nervell <70727437+Nervell@users.noreply.github.com>
+Date:   Fri Jul 25 00:33:06 2025 -0400
+
+    Add hello_world.txt
+
+[33mcommit a74209519cc4b9346b4cb6005518ed4b4c8f0629[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nervell <70727437+Nervell@users.noreply.github.com>
+Date:   Fri Jul 25 00:19:47 2025 -0400
+
+    Initial commit
